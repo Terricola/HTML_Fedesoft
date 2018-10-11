@@ -1,0 +1,44 @@
+body {
+    font-family: 'Muli', sans-serif;
+}
+
+.header{
+    background-image: url("../IMG/PICS/header_1.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+.header p{
+
+    padding: 50px;
+
+}
+
+.icons{
+    width: 60px;
+    height: 60px;
+}
+
+.header_2{
+    float:  right;
+    margin-right: 60px;
+}
+
+.header_2 a{    
+    margin: 0 20px;
+}
+
+.footer{
+    background-color: #F3F6F7;
+    height: 200px;
+    position: relative;
+
+}
+
+.footer .texto{
+
+    position: absolute;
+    top: 5px;
+    left: 35px;
+    right: 20px;
+}
